@@ -2,7 +2,7 @@
 (add-to-list 'install 'rinari)
 (add-to-list 'install 'rhtml-mode)
 (add-to-list 'install 'yaml-mode)
-(add-to-list 'install 'rvm)
+;;(add-to-list 'install 'rvm)
 (add-to-list 'install 'rspec-mode)
 
 (add-to-list
